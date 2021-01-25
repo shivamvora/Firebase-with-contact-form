@@ -22,14 +22,12 @@
 
 
 var con = {
-  apiKey: "AIzaSyD0Z0NnsmjrkEBpnO8T4wvvBy5xK_j-SWQ",
-  authDomain: "html-42bb2.firebaseapp.com",
-  databaseURL: "https://html-42bb2-default-rtdb.firebaseio.com",
-  projectId: "html-42bb2",
-  storageBucket: "html-42bb2.appspot.com",
-  messagingSenderId: "716761355516",
-  appId: "1:716761355516:web:d906b842ac0f192ee6b379",
-  measurementId: "G-PTR3R4Y4PV"
+ apiKey: "AIzaSyB2db-FYgiUFJxS9H25Sg4Z63qQqSG-61o",
+    authDomain: "html-contact-form.firebaseapp.com",
+    projectId: "html-contact-form",
+    storageBucket: "html-contact-form.appspot.com",
+    messagingSenderId: "453517683021",
+    appId: "1:453517683021:web:442c0c6ff1487d82c86f04"
 };
 // Initialize Firebase
 firebase.initializeApp(con);
